@@ -1,0 +1,15 @@
+{
+  "goal": "收集网页信息",
+  "commands": [
+    "打开 example.com",
+    "分析页面",
+    "截图",
+    "滚动到页面底部",
+    "截图"
+  ],
+  "metadata": {
+    "createdAt": "2024-01-01T00:00:00Z",
+    "tags": ["data-collection"],
+    "description": "收集网页内容和截图"
+  }
+}

@@ -1,0 +1,28 @@
+# 依赖
+node_modules/
+
+# 环境变量
+.env
+.env.local
+.env.*.local
+
+# 截图和输出
+screenshot*.png
+*.log
+
+# 构建
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 测试覆盖率
+coverage/
+
+# OS
+.DS_Store
+Thumbs.db

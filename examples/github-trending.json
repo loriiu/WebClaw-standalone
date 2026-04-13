@@ -1,0 +1,13 @@
+{
+  "goal": "搜索 GitHub 热门项目",
+  "commands": [
+    "打开 github.com/trending",
+    "等待 2 秒",
+    "截图"
+  ],
+  "metadata": {
+    "createdAt": "2024-01-01T00:00:00Z",
+    "tags": ["github", "research"],
+    "description": "查看 GitHub 热门项目排行榜"
+  }
+}

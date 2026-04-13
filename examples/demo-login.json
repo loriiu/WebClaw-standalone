@@ -1,0 +1,16 @@
+{
+  "goal": "自动化登录示例",
+  "commands": [
+    "打开 github.com/login",
+    "填写用户名为 testuser",
+    "填写密码为 testpass",
+    "点击登录按钮",
+    "等待 3 秒",
+    "分析页面"
+  ],
+  "metadata": {
+    "createdAt": "2024-01-01T00:00:00Z",
+    "tags": ["demo", "login"],
+    "description": "演示自动化登录流程"
+  }
+}
