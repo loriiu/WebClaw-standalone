@@ -1,7 +1,22 @@
 {
+  "api": {
+    "type": "coze",
+    "key": "",
+    "endpoint": "",
+    "model": ""
+  },
   "coze": {
     "endpoint": "https://api.coze.cn",
     "model": "coze-flash"
+  },
+  "openai": {
+    "endpoint": "https://api.openai.com/v1",
+    "model": "gpt-4o-mini"
+  },
+  "anthropic": {
+    "endpoint": "https://api.anthropic.com/v1",
+    "model": "claude-3-5-haiku-20240620",
+    "maxTokens": 1024
   },
   "browser": {
     "type": "chromium",
